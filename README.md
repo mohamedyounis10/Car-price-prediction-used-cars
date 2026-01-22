@@ -170,12 +170,12 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🙏 Acknowledgments
 
 - Dataset source: (https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india/data)
-- CodeAlpha for the project opportunity
 - Open source community for tools and libraries
 
 ---
 
 For questions or suggestions, please open an issue on GitHub.
+
 
 
 
