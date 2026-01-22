@@ -33,7 +33,7 @@ This project aims to predict the selling price of used cars based on various fea
 ## 📁 Project Structure
 
 ```
-Task 3/
+/
 │
 ├── Dataset/
 │   └── car data.csv          # Dataset containing car information
@@ -176,6 +176,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 For questions or suggestions, please open an issue on GitHub.
+
 
 
 
