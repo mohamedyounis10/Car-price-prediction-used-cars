@@ -130,7 +130,7 @@ The Power BI dashboard provides interactive visualizations including:
 - Kilometers driven analysis
 - Model performance metrics
 
-<img width="1283" height="713" alt="Screenshot 2026-01-20 215357" src="https://github.com/user-attachments/assets/95935169-ba12-4e3e-9c54-8a785d7688a4" />
+<img width="1308" height="699" alt="Screenshot 2026-01-20 124347" src="https://github.com/user-attachments/assets/5921e4a2-94d7-4b08-b2d7-c156f89b8f74" />
 
 ## 🔍 Key Insights
 
@@ -176,6 +176,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 For questions or suggestions, please open an issue on GitHub.
+
 
 
 
